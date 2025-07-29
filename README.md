@@ -14,17 +14,20 @@ This is a personal prototype project developed for **TNB ILSAS**. The system is 
 
 ## 🖼️ Screenshots
 
-![Home Page](images/home.png)
+![Home Page](Home.png)
 *Home screen showing registration intro*
 
-![Step 1 Form](images/form-step1.png)
-*Multi-step registration form - Step 1*
+![About Form](About.png)
+*About US Page*
 
-![Step 2 Form](images/form-step2.png)
-*Multi-step registration form - Step 2*
+![Program Form](Program.png)
+*Program Detail Page*
 
-![Success Page](images/success.png)
-*Successful submission confirmation*
+![Register Page](Register.png)
+*Register Page*
+
+![Contact Page](Contact.png)
+*Contact US Page*
 
 > ⚠️ Make sure to place your screenshots inside a folder named `/images` in your repository root or update the image links accordingly.
 
@@ -41,7 +44,7 @@ This is a personal prototype project developed for **TNB ILSAS**. The system is 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/LTW_WEB_2025.git
+git clone https://github.com/Kubisssz/LTW_WEB_2025.git
 cd LTW_WEB_2025
 
 # 2. Install dependencies
