@@ -14,19 +14,19 @@ This is a personal prototype project developed for **TNB ILSAS**. The system is 
 
 ## 🖼️ Screenshots
 
-![Home Page](Home.png)
+![Home Page](images/Home.png)
 *Home screen showing registration intro*
 
-![About Form](About.png)
+![About Form](images/About.png)
 *About US Page*
 
-![Program Form](Program.png)
+![Program Form](images/Program.png)
 *Program Detail Page*
 
-![Register Page](Register.png)
+![Register Page](images/Register.png)
 *Register Page*
 
-![Contact Page](Contact.png)
+![Contact Page](images/Contact.png)
 *Contact US Page*
 
 > ⚠️ Make sure to place your screenshots inside a folder named `/images` in your repository root or update the image links accordingly.
