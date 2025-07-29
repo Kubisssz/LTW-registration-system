@@ -29,9 +29,7 @@ This is a personal prototype project developed for **TNB ILSAS**. The system is 
 ![Contact Page](images/Contact.png)
 *Contact US Page*
 
-> ⚠️ Make sure to place your screenshots inside a folder named `/images` in your repository root or update the image links accordingly.
 
----
 
 ## 🚀 Getting Started
 
@@ -49,10 +47,7 @@ cd LTW_WEB_2025
 
 # 2. Install dependencies
 npm install
-# or
-yarn install
+
 
 # 3. Start the development server
 npm run dev
-# or
-yarn dev
