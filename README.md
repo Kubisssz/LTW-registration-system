@@ -42,7 +42,7 @@ This is a personal prototype project developed for **TNB ILSAS**. The system is 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Kubisssz/LTW_WEB_2025.git
+git clone https://github.com/Kubisssz/LTW-registration-system.git
 cd LTW_WEB_2025
 
 # 2. Install dependencies
